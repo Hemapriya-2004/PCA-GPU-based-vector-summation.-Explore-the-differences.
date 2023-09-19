@@ -493,12 +493,15 @@ int main(int argc, char **argv)
 
 ## Output:
 block.x = 1023
+
 ![o1](https://github.com/Hemapriya-2004/PCA-GPU-based-vector-summation.-Explore-the-differences./assets/94184828/7e2c098f-60ba-4281-b579-5d01b099ce85)
 
 block.x = 1024
+
 ![02](https://github.com/Hemapriya-2004/PCA-GPU-based-vector-summation.-Explore-the-differences./assets/94184828/6cae7b69-0b81-408c-a212-ad5694072d0b)
 
 block.x = 256
+
 ![o3](https://github.com/Hemapriya-2004/PCA-GPU-based-vector-summation.-Explore-the-differences./assets/94184828/0272864f-b8b7-4286-844e-42c4ff2dba5e)
 
 
